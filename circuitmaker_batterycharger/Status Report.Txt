@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08:27:48 p. m. On 12/02/2019
+
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [BatteryCharger.CMPcbDoc]
+   Generated File[BatteryCharger.TXT]
+   Generated File[BatteryCharger.LDP]
+   Generated File[BatteryCharger.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 08:27:55 p. m. On 12/02/2019

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {1920A39F-126F-4ACA-BF56-DDC6B6A5C4F7}\Projects\F1E3E80D-DFEB-4937-9FC4-478FEEEC1FAB\63981e59-c877-459e-aa4c-5db5f057711c\BatteryCharger.CMPcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
